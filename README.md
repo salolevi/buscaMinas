@@ -1,2 +1,1 @@
 # buscaMinas
-# buscaMinas
